@@ -51,3 +51,16 @@ $ npm run dev
 
 build web 
     npm run build
+
+
+pour envoyer le fichier apk lourd github n'accept pas mais pour contourner 
+  - telecharger https://git-lfs.github.com/
+  - installer puis 
+  - executer la commander dans le projet
+    git lfs install
+
+git lfs track "*.apk"
+git add .gitattributes
+git add public/apk/hostolink.apk
+git commit -m "Track APK with Git LFS"
+git push
