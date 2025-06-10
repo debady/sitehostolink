@@ -525,7 +525,7 @@ const HostolinkHomepage = () => {
               color: 'rgba(255,255,255,0.9)'
             }}>
               L'application mobile qui révolutionne vos paiements de santé. 
-              Payez vos soins, trouvez des établissements et échangez avec notre communauté santé en toute simplicité.
+              Payez vos soins, trouvez des établissements et échangez avec notre communauté santé en toute simplicité-.
             </p>
 
             {/* CTA Buttons */}
