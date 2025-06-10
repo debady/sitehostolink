@@ -108,7 +108,7 @@ const ContactPage = () => {
       value: '+225 27 20 25 00 00',
       desc: 'Lun-Ven 8h-18h',
       color: 'from-green-500 to-green-600',
-      action: 'tel:+22527202500'
+      action: 'tel:+225 27 20 25 00'
     },
     {
       icon: '💬',
@@ -492,11 +492,11 @@ const ContactPage = () => {
                       onChange={handleInputChange}
                       style={{...inputStyle, cursor: 'pointer'}}
                     >
-                      <option value="general">Question générale</option>
-                      <option value="technical">Support technique</option>
-                      <option value="billing">Facturation</option>
-                      <option value="partnership">Partenariat</option>
-                      <option value="press">Presse</option>
+                      <option value="general">Questions générales</option>
+                      <option value="technical">Supports techniques</option>
+                      <option value="billing">Facturations</option>
+                      <option value="partnership">Partenariats</option>
+                      <option value="press">Presses</option>
                     </select>
                   </div>
                 </div>
@@ -925,7 +925,7 @@ const ContactPage = () => {
             marginBottom: '3rem',
             opacity: 0.8
           }}>
-            Restez connecté avec Hostolink sur nos réseaux sociaux pour les dernières actualités
+            Restez connecter avec Hostolink sur nos réseaux sociaux pour les dernières actualités.
           </p>
 
           <div style={{
@@ -1087,7 +1087,7 @@ const ContactPage = () => {
               paddingTop: '2rem'
             }}>
               <p>
-                Support 24h - Présent dans 3 pays - Réponse garantie
+                Support 24h - Présent dans 3 pays - Réponses garanties
               </p>
             </div>
           </div>

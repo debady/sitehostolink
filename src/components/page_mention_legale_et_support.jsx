@@ -92,7 +92,7 @@ const LegalPage = () => {
               <section>
                 <h3 style={{ fontSize: '1.5rem', marginBottom: '1rem', color: '#fbbf24' }}>3. Inscription et compte utilisateur</h3>
                 <p style={{ lineHeight: 1.6, marginBottom: '1rem' }}>
-                  Pour utiliser Hostolink, vous devez créer un compte en fournissant des informations exactes et à jour. 
+                  Pour utiliser Hostolink, vous devez créer un compte en fournissant des informations exactement valables. 
                   Vous êtes responsable de la confidentialité de vos identifiants de connexion.
                 </p>
                 <p style={{ lineHeight: 1.6, marginBottom: '1rem' }}>
@@ -102,6 +102,7 @@ const LegalPage = () => {
                   <li>Être âgé de 18 ans minimum</li>
                   <li>Résider dans un pays où le service est disponible</li>
                   <li>Disposer d'un numéro de téléphone valide</li>
+                  <li>Disposer d'une adresse e-mail</li>
                   <li>Un seul compte par personne</li>
                 </ul>
               </section>
@@ -151,7 +152,7 @@ const LegalPage = () => {
               <section>
                 <h3 style={{ fontSize: '1.5rem', marginBottom: '1rem', color: '#fbbf24' }}>8. Contact</h3>
                 <p style={{ lineHeight: 1.6 }}>
-                  Pour toute question concernant ces conditions : 
+                  Pour toutes questions concernant ces conditions : 
                   <strong> legal@hostolink.com</strong>
                 </p>
               </section>

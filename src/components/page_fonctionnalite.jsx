@@ -520,7 +520,7 @@ const FeaturesPage = () => {
             maxWidth: '600px',
             margin: '0 auto 4rem'
           }}>
-            Professionnels de santé et patients témoignent de leur expérience Hostolink
+            Professionnels de santé et patients témoignent de leur expérience avec Hostolink
           </p>
 
           <div style={{
