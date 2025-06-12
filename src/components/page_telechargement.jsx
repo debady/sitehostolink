@@ -279,7 +279,6 @@ const DownloadPage = () => {
                 onClick={() => setSelectedPlatform(platform.id)}
                 style={{
                   padding: '1rem 2rem',
-                  border: 'none',
                   borderRadius: '15px',
                   background: selectedPlatform === platform.id 
                     ? `linear-gradient(135deg, ${platform.color.replace('from-', '').replace(' to-', ', ')})`
