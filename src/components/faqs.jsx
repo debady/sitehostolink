@@ -252,7 +252,7 @@ export const AIBot = ({
           boxShadow: '0 10px 30px rgba(0,0,0,0.3)',
           zIndex: 1001,
           animation: 'slideIn 0.3s ease',
-          position: 'relative'
+          // position: 'relative'
         }}>
           <div style={{
             position: 'absolute',

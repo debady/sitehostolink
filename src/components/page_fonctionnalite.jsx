@@ -303,7 +303,7 @@ const FeaturesPage = () => {
                 onClick={() => setActiveModule(index)}
                 style={{
                   padding: '1.5rem 2.5rem',
-                  border: 'none',
+                  // border: 'none',
                   borderRadius: '20px',
                   background: activeModule === index 
                     ? `linear-gradient(135deg, ${module.color.split(' ')[1]} 0%, ${module.color.split(' ')[3]} 100%)`
@@ -660,7 +660,7 @@ onClick={() => {
               </button>
                <a
     id="hidden-apk-link"
-    href="/apk/hostolink.apk"
+    href="/apk/hostopay-v1.0.0.3.apk"
     download
     style={{ display: 'none' }}
   />

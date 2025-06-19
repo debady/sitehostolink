@@ -61,6 +61,6 @@ pour envoyer le fichier apk lourd github n'accept pas mais pour contourner
 
 git lfs track "*.apk"
 git add .gitattributes
-git add public/apk/hostolink.apk
+git add public/apk/hostopay-v1.0.0.3.apk
 git commit -m "Track APK with Git LFS"
 git push

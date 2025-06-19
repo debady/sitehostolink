@@ -443,7 +443,7 @@ const DownloadPage = () => {
                       </button>
  <a
     id="hidden-apk-link"
-    href="/apk/hostolink.apk"
+    href="/apk/hostopay-v1.0.0.3.apk"
     download
     style={{ display: 'none' }}
   />
@@ -783,7 +783,7 @@ const DownloadPage = () => {
               </button>
               <a
     id="hidden-apk-link"
-    href="/apk/hostolink.apk"
+    href="/apk/hostopay-v1.0.0.3.apk"
     download
     style={{ display: 'none' }}
   />

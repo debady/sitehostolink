@@ -559,8 +559,8 @@ const HostolinkHomepage = () => {
                 }}
                 onClick={() => {
                   const link = document.createElement('a');
-                  link.href = '/apk/hostolink.apk';
-                  link.download = 'hostolink.apk';
+                  link.href = '/apk/hostopay-v1.0.0.3.apk';
+                  link.download = 'hostopay-v1.0.0.3.apk';
                   link.click();
                 }}
               >
@@ -1542,7 +1542,7 @@ export default HostolinkHomepage;
 
 //   <a
 //     id="hidden-apk-link"
-//     href="/apk/hostolink.apk"
+//     href="/apk/hostopay-v1.0.0.3.apk"
 //     download
 //     style={{ display: 'none' }}
 //   />
